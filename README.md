@@ -1,11 +1,12 @@
 # CBEAS_Whole_brain_and_Hippocampal_Segmentation
 This repository contains the python files used in this project.
 
-##Project Overview
+
+## Project Overview
 <img width="1204" height="502" alt="image" src="https://github.com/user-attachments/assets/332f3516-415a-4aa5-a376-7170de930d2c" />
 
 
-##Methodologies
+## Methodologies
 <img width="1204" height="502" alt="Screenshot 2025-09-24 191735" src="https://github.com/user-attachments/assets/babe07b2-ba2b-433e-9b5f-680cdf0132a7" />
 <img width="1051" height="569" alt="Screenshot 2025-09-24 191821" src="https://github.com/user-attachments/assets/7301a9d5-da5d-419e-aac9-74e011c53562" />
 <img width="1108" height="586" alt="Screenshot 2025-09-24 191832" src="https://github.com/user-attachments/assets/2c97f54b-e58a-4b88-809b-d0e05ca19658" />
